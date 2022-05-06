@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+Pleased to meet you! An industrious senior data scientist w BC's forest protection branch, I work hard to orient Research & Development (R&D) to serve Operations, building bridges and coalitions needed to effectuate that. Open to collaboration! 
+Best regards,
+Ashlin
 
 <!--
 **ashlinrichardson/ashlinrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
