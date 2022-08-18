@@ -1,5 +1,5 @@
 ### Hi 👋
-Pleased to meet you! An industrious senior data scientist w BC's forest protection branch (and chief informatics office where I'm seconded from) I work hard to orient Research & Development (R&D) to serve Operations, building bridges and coalitions needed to effectuate that. Open to collaboration! 
+Pleased to meet you! An industrious senior data scientist with teh BC Forest Protection Branch (and the chief informatics office from which I am seconded) I work to orient Research & Development to serve Operations: building bridges and coalitions needed to effectuate that. Open to collaborate!
 Best regards,
 
 Ashlin
