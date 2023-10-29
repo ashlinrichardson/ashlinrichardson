@@ -1,5 +1,5 @@
 ### Hi 👋
-Pleased to meet you! An industrious senior data scientist with the BC Forest Protection Branch, I work to orient Research & Development to serve Operations: building bridges and coalitions needed to effectuate that. Open to collaborate!
+Pleased to meet you! An industrious senior data scientist with the BC Ministry of Forest/ Forest Protection Branch, I work to orient Research & Development to serve Operations: building bridges and coalitions needed to make it happen. Open to collaborate!
 Best regards,
 
 Ashlin
