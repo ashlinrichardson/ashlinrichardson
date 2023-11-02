@@ -9,7 +9,7 @@ Ashlin
 
 - ⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555
 - ⚡ For Wildfire info in BC, please [click here](https://www2.gov.bc.ca/gov/content/safety/wildfire-status)
-- Please [click here](https://ashlinrichardson.com/index.html?page=talks) for a list of presentations developed or supported, or [click here](https://ashlinrichardson.com/index.html?page=letters) for a list of papers
+- Please [click here](https://ashlinrichardson.com/index.html?page=talks) for a list of presentations or [click here](https://ashlinrichardson.com/index.html?page=letters) for a list of papers
 <!--
 **ashlinrichardson/ashlinrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
