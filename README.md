@@ -1,9 +1,9 @@
 ### Hi 👋
 Pleased to meet you! An industrious senior data scientist with the BC Ministry of Forest/ Forest Protection Branch, I work to orient Research & Development to serve Operations: building bridges and coalitions needed to make it happen. Open to collaborate!
-Best regards,
-
+Regards,
 Ashlin
 
+- ⚡ To report a Wildfire in BC, please call 1 800 663-5555 or *5555
 <!--
 **ashlinrichardson/ashlinrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
