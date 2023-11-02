@@ -3,7 +3,8 @@ Pleased to meet you! An industrious senior data scientist with the BC Ministry o
 Regards,
 Ashlin
 
-- ⚡ To report a Wildfire in BC, please call 1 800 663-5555 or *5555
+- ⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555
+- ⚡ For Wildfire info in BC, please visit [https://www2.gov.bc.ca/gov/content/safety/wildfire-status]
 <!--
 **ashlinrichardson/ashlinrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
